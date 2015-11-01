@@ -1,0 +1,8 @@
+name = Observer
+description = Observer pattern for notifications
+core = 7.x
+
+dependencies[] = xautoload
+
+files[] = src/Controller/observer.php
+files[] = src/Controller/subject.php
